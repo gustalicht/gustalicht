@@ -15,8 +15,8 @@ Sou um estudante dedicado, apaixonado por aprendizado e desenvolvimento de softw
 - Projeto Tester/Python: Um projeto de automação de testes em Python.
 
 ## Como me encontrar
-- LinkedIn: [seu perfil do LinkedIn](https://www.linkedin.com/seu-perfil)
-- E-mail: seuemail@example.com
+- LinkedIn: (https://www.linkedin.com/gustavolicht)
+- E-mail: gustalicht@gmail.com
 
 ## Contribuições
 - Sinta-se à vontade para explorar meus repositórios e fazer sugestões, abrir problemas (issues) ou enviar pull requests. Estou sempre aberto(a) a colaborações construtivas.
