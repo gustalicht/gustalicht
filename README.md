@@ -1,27 +1,27 @@
-# Bem-vindo(a) ao meu perfil do GitHub!
+# 💫 About Me:
+## Sobre mim<br>Sou um estudante dedicado, apaixonado por aprendizado e desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Full-Stack Júnior, buscando aprimorar minhas habilidades em desenvolvimento de software.<br>Estudo na Universidade Federal do Rio Grande do Sul(UFRGS) e atualmente trabalho na Safe2Pay. <br><br><br>## Principais Interesses e Habilidades<br>- Linguagens de programação Back-End: Proficiente em C# e Python, e sempre buscando expandir meu conhecimento em outras linguagens.<br>- Desenvolvimento Web: Familiaridade com HTML, CSS e JavaScript, Node.js e Vue.js.<br>
 
-## Sobre mim
-Sou um estudante dedicado, apaixonado por aprendizado e desenvolvimento de software. Atualmente, trabalho como tester, buscando aprimorar minhas habilidades em testes de software e garantia de qualidade. Tenho foco em aprimorar minhas habilidades em duas linguagens principais: C# e Python.
 
-## Principais Interesses e Habilidades
-- Testes de software: Experiência em planejamento, execução e automação de testes.
-- Linguagens de programação: Proficiente em C# e Python, e sempre buscando expandir meu conhecimento em outras linguagens.
-- Desenvolvimento Web: Familiaridade com HTML, CSS e JavaScript.
-- Aprendizado de Máquina e Inteligência Artificial: Interesse em explorar essa área e suas aplicações práticas.
-- Colaboração: Aberto(a) a projetos colaborativos, troca de conhecimento e contribuições para a comunidade de desenvolvedores.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustalicht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavolicht) 
 
-## Projetos Destacados
-- Projeto de app com C#: Um projeto pessoal em C# para criar uma aplicação de gerenciamento de tarefas.
-- Projeto Tester/Python: Um projeto de automação de testes em Python.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gustalicht&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gustalicht&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustalicht&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Como me encontrar
-- LinkedIn: (https://www.linkedin.com/gustavolicht)
-- E-mail: gustalicht@gmail.com
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gustalicht&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Contribuições
-- Sinta-se à vontade para explorar meus repositórios e fazer sugestões, abrir problemas (issues) ou enviar pull requests. Estou sempre aberto(a) a colaborações construtivas.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Aprendizado Contínuo
-Estou constantemente buscando aprender e me aprimorar como profissional de tecnologia. Se você tiver alguma sugestão de recursos, cursos ou projetos interessantes, não hesite em compartilhar!
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Obrigado por visitar meu perfil do GitHub. Fique à vontade para explorar meus projetos e entrar em contato. Vamos aprender e crescer juntos!
+---
+[![](https://visitcount.itsvg.in/api?id=gustalicht&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
