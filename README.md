@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Sobre mim<br>Sou um estudante dedicado, apaixonado por aprendizado e desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Full-Stack Júnior, buscando aprimorar minhas habilidades em desenvolvimento de software.<br>Estudo na Universidade Federal do Rio Grande do Sul(UFRGS) e atualmente trabalho na Safe2Pay. <br><br><br>## Principais Interesses e Habilidades<br>- Linguagens de programação Back-End: Proficiente em C# e Python, e sempre buscando expandir meu conhecimento em outras linguagens.<br>- Desenvolvimento Web: Familiaridade com HTML, CSS e JavaScript, Node.js e Vue.js.<br>
 
 
