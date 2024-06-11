@@ -1,5 +1,9 @@
-## Sobre mim<br>Sou um estudante dedicado, apaixonado por aprendizado e desenvolvimento de software. Atualmente, trabalho como Desenvolvedor Full-Stack Júnior, buscando aprimorar minhas habilidades em desenvolvimento de software.<br>Estudo na Universidade Federal do Rio Grande do Sul (UFRGS) e atualmente trabalho na Safe2Pay. <br><br><br>## Principais Interesses e Habilidades<br>- Linguagens de programação Back-End: Proficiente em C# e Python, e sempre buscando expandir meu conhecimento em outras linguagens.<br>- Desenvolvimento Web: Familiaridade com HTML, CSS e JavaScript, PHP, Node.js e Vue.js.<br>
+About Me
+I am a dedicated student with a passion for learning and software development. Currently, I work as a Junior Full-Stack Developer, constantly seeking to enhance my software development skills. I study at the Federal University of Rio Grande do Sul (UFRGS) and currently work at Safe2Pay.
 
+Key Interests and Skills
+Back-End Programming Languages: Proficient in C# and Python, always looking to expand my knowledge in other languages.
+Web Development: Familiar with HTML, CSS, JavaScript, PHP, Node.js, and Vue.js.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustalicht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavolicht) 
