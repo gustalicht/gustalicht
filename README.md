@@ -1,5 +1,5 @@
 ## About Me: 
-I am a dedicated student with a passion for learning and software development. Currently, I work as a Junior Full-Stack Developer, constantly seeking to enhance my software development skills. I study at the Federal University of Rio Grande do Sul (UFRGS) and currently work at Safe2Pay.
+I am a dedicated student with a passion for learning and software development. Currently, I work as a Junior Full-Stack Developer, constantly seeking to enhance my software development skills. I study at the Federal University of Rio Grande do Sul (UFRGS) and currently work at Freelance.
 
 ## Key Interests and Skills: 
 Back-End Programming Languages: Proficient in C# and Python, always looking to expand my knowledge in other languages.
